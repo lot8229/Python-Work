@@ -6,6 +6,4 @@ if num>0:
 if num<0:
     print("음수입니다")
 if num==0:
-    print("0입니다")
-
-print("어캐하누")
+ 
