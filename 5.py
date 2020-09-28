@@ -1,1 +1,3 @@
-print("{}년 {} 월 {}일 {} 시 {}분")
+import time
+time=time()
+print("오늘은 {} 입니다".format(time.datetime))
