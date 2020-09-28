@@ -1,0 +1,1 @@
+print("{}년 {} 월 {}일 {} 시 {}분 {}초".format(now.year,))
