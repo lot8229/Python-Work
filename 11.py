@@ -9,3 +9,8 @@
 #############################
 
 
+for i in range(100) : 
+    print(i)
+array = [273,214,43,2]
+for el in array:
+    print(el)
