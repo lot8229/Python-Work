@@ -11,3 +11,4 @@ print(list_a+list_b)
 
 list_a.append("문자열")
 print(list_a)
+ 
