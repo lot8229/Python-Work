@@ -3,4 +3,4 @@ num=int(num)
 if num%2==0:
     print("짝수입니다.")
 else : 
-    print("홀수입니다.")
+    print("홀수입니다.") 
